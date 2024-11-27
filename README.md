@@ -21,13 +21,8 @@ The second has an "f" for flat and will make folders that are a single level dee
 Supported consoles include:
 
 	Mega Drive/Genesis
-
 	N64
-
 	NES
-
 	PC Engine
-
 	Sega Master System
-
 	SNES
