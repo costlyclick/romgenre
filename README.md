@@ -9,19 +9,28 @@ This was adapted from a list that a Russian gentleman had made using the old "Go
 There are two options for each console. The default will make a verbose list with subdirectories like this:
 
   \Action (General)\Isometric
+
   \Action (General)\Side-Scrolling
+
   \Action (General)\Top-Down
 
 The second has an "f" for flat and will make folders that are a single level deep:
 
   \Action
+
   \Adventure
+
   \Beat'em Up
 
 Supported consoles include:
 	Mega Drive/Genesis
+
 	N64
+
 	NES
+
 	PC Engine
+
 	Sega Master System
+
 	SNES
