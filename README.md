@@ -20,6 +20,7 @@ The second has an "f" for flat and will make folders that are a single level dee
 
 Supported consoles include:
 
+	FBNeo 
 	Mega Drive/Genesis
 	N64
 	NES
